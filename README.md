@@ -3,6 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Machine Learning Projects</b>
+  - [Deep Learning Translation (Python)](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Image Stlye Transfer (Python)](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Cancer Cell Detection (Python)](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Reinforcement Learning Project (Python)](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -18,3 +19,8 @@
 - <b>Contols Projects</b>
   - [Three Link Robot IK Obstacle Avoidance (Python)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [VTOL Simulation (Python)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+ 
+- <b>Previous Jobs</b>
+  - [The Neuromorphic Computing Lab (Python)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Atkinson Electronics (Java)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  
