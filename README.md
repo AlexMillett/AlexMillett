@@ -3,7 +3,7 @@ wesf<h1>Hi, I'm Alex! <br/><a> Software Engineer <a>, <a>And Control Systems Eng
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Machine Learning Projects</b>
-  - [Deep Learning Translation (Python)](https://github.com/DeepLearningTranslation)
+  - [Deep Learning Translation (Python)](https://github.com/AlexMillett/DeepLearningTranslation)
   - [Image Stlye Transfer (Python)](https://github.com/AlexMillett/ImageStyleTransfer)
   - [Cancer Cell Detection (Python)](https://github.com/AlexMillett/CancerCellDetectionProject)
   - [Reinforcement Learning Project (Python)](https://github.com/AlexMillett/ReinforcementLearningProject)
