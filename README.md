@@ -9,7 +9,7 @@ wesf<h1>Hi, I'm Alex! <br/><a> Software Engineer <a>, <a>And Control Systems Eng
   - [Reinforcement Learning Project (Python)](https://github.com/AlexMillett/ReinforcementLearningProject)
   - [Char Rnn Kapathy Project (Python)](https://github.com/AlexMillett/CharRnnKapathyProject)
 - <b>Full Stack Web Applications (Angular, Android Studio, Java, SpringBoot, ThymeLeaf, JPA, Hibernate and SQL)</b>
-  - [Family History CRUD App (Java, Android Studio, SQLite)](https://github.com/AlexMillett/FamilyHistoyCRUDApplication)
+  - [Family History CRUD App (Java, Android Studio, SQLite)](https://github.com/AlexMillett/FamilyHistoryCRUDApplication)
   - [SpringBoot Angular Full Stack Application (SpringBoot, Java, Angular, MySQL) (In Progress)](https://github.com/AlexMillett/SpringBootAngularCRUDApplication)
 - <b>Computer Vision Projects</b>
   - [Panorama Stitching Project (Python)](https://github.com/AlexMillett/PanoramicStitchingProject)
