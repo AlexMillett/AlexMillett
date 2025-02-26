@@ -21,7 +21,7 @@ wesf<h1>Hi, I'm Alex! <br/><a> Software Engineer <a>, <a>And Control Systems Eng
   - [VTOL Simulation (Python)](https://github.com/AlexMillett/VTOLSimulation)
  
 - <b>Previous Jobs</b>
-  - [The Neuromorphic Computing Lab (Python)](https://github.com/AlexMillett/NeuromophicComputing)
+  - [The Neuromorphic Computing Lab (Python)](https://github.com/AlexMillett/NeuromorphicComputing)
   - [Atkinson Electronics (Java)](https://github.com/AlexMillett/AtkinsonElectronics)
   
 - <b>Courses and Certifications</b>
