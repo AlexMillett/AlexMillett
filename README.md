@@ -17,7 +17,7 @@
   - [Image Segmentation (Python)](https://github.com/AlexMillett/ImageSegmentation)
   - [Image Classification With Deep Learning (Python)](https://github.com/AlexMillett/DeepLearningImageClassification)
 - <b>Contols Projects</b>
-  - [Three Link Robot IK Obstacle Avoidance (Python)](https://github.com/AlexMillett/ThreeLinkRobot)
+  - [Three Link Robot IK Obstacle Avoidance (Python) (Under Maintenance)](https://github.com/AlexMillett/ThreeLinkRobot)
   - [VTOL Simulation (Python)](https://github.com/AlexMillett/VTOLSimulation)
  
 - <b>Previous Jobs</b>
