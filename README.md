@@ -6,8 +6,8 @@
   - [Image Stlye Transfer (Python)](https://github.com/AlexMillett/ImageStyleTransfer)
   - [Cancer Cell Detection (Python)](https://github.com/AlexMillett/CancerCellDetectionProject)
   - [Reinforcement Learning Project (Python)](https://github.com/AlexMillett/ReinforcementLearningProject)
-  - [Char Rnn Kapathy Project (Python) (Under Maintenance)](https://github.com/AlexMillett/CharRnnKapathyProject)
-  - [Deep Learning Translation (Python) (Under Maintenance)](https://github.com/AlexMillett/DeepLearningTranslation)
+  - [Char Rnn Kapathy Project (Python)](https://github.com/AlexMillett/CharRnnKapathyProject)
+  - [Deep Learning Translation (Python)](https://github.com/AlexMillett/DeepLearningTranslation)
 - <b>Full Stack Web Applications (Angular, Android Studio, Java, SpringBoot, ThymeLeaf, JPA, Hibernate and SQL)</b>
   - [Family History CRUD App (Java, Android Studio, SQLite)](https://github.com/AlexMillett/FamilyHistoryCRUDApplication)
   - [SpringBoot Angular Full Stack Application (SpringBoot, Java, Angular, MySQL) (Under Maintenance)](https://github.com/AlexMillett/SpringBootAngularCRUDApplication)
