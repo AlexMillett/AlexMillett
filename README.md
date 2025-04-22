@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alex! <br/><a> Software Engineer <a>, <a>And Control Systems Engineer</a>
+<h1>Hi, I'm Alex! <br/><a> Software Engineer and Control Systems Engineer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
