@@ -9,7 +9,7 @@
   - [Char Rnn Kapathy Project (Python) (Under Maintenance)](https://github.com/AlexMillett/CharRnnKapathyProject)
   - [Deep Learning Translation (Python) (Under Maintenance)](https://github.com/AlexMillett/DeepLearningTranslation)
 - <b>Full Stack Web Applications (Angular, Android Studio, Java, SpringBoot, ThymeLeaf, JPA, Hibernate and SQL)</b>
-  - [Family History CRUD App (Java, Android Studio, SQLite) (Under Maintenance)](https://github.com/AlexMillett/FamilyHistoryCRUDApplication)
+  - [Family History CRUD App (Java, Android Studio, SQLite)](https://github.com/AlexMillett/FamilyHistoryCRUDApplication)
   - [SpringBoot Angular Full Stack Application (SpringBoot, Java, Angular, MySQL) (Under Maintenance)](https://github.com/AlexMillett/SpringBootAngularCRUDApplication)
 - <b>Computer Vision Projects</b>
   - [Panorama Stitching Project (Python)](https://github.com/AlexMillett/PanoramicStitchingProject)
