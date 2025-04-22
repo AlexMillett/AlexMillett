@@ -6,11 +6,11 @@
   - [Image Stlye Transfer (Python)](https://github.com/AlexMillett/ImageStyleTransfer)
   - [Cancer Cell Detection (Python)](https://github.com/AlexMillett/CancerCellDetectionProject)
   - [Reinforcement Learning Project (Python)](https://github.com/AlexMillett/ReinforcementLearningProject)
-  - [Char Rnn Kapathy Project (Python)](https://github.com/AlexMillett/CharRnnKapathyProject)
+  - [Char Rnn Kapathy Project (Python) (Under Maintenance)](https://github.com/AlexMillett/CharRnnKapathyProject)
   - [Deep Learning Translation (Python) (Under Maintenance)](https://github.com/AlexMillett/DeepLearningTranslation)
 - <b>Full Stack Web Applications (Angular, Android Studio, Java, SpringBoot, ThymeLeaf, JPA, Hibernate and SQL)</b>
-  - [Family History CRUD App (Java, Android Studio, SQLite)](https://github.com/AlexMillett/FamilyHistoryCRUDApplication)
-  - [SpringBoot Angular Full Stack Application (SpringBoot, Java, Angular, MySQL) (In Progress)](https://github.com/AlexMillett/SpringBootAngularCRUDApplication)
+  - [Family History CRUD App (Java, Android Studio, SQLite) (Under Maintenance)](https://github.com/AlexMillett/FamilyHistoryCRUDApplication)
+  - [SpringBoot Angular Full Stack Application (SpringBoot, Java, Angular, MySQL) (Under Maintenance)](https://github.com/AlexMillett/SpringBootAngularCRUDApplication)
 - <b>Computer Vision Projects</b>
   - [Panorama Stitching Project (Python)](https://github.com/AlexMillett/PanoramicStitchingProject)
   - [QR Code Reader (Python)](https://github.com/AlexMillett/QRCodeReader)
